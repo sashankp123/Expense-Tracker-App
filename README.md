@@ -47,3 +47,7 @@ MIT
 Acknowledgments
 Thanks to React Native and Expo for the framework and tools.
 Usage of React Native Chart Kit for rendering pie charts.
+
+
+
+
