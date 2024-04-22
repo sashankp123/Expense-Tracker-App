@@ -1,3 +1,5 @@
+Expense Tracker App
+
 Overview
 Expense Tracker is a mobile application developed using React Native. It allows users to record their daily expenses by category and visually track their spending habits through a dynamic pie chart. The application offers functionalities like adding, listing, and deleting expenses.
 
